@@ -1,0 +1,8 @@
+{
+  "name": "lti-tool-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'no build needed'",
+    "start": "vercel dev"
+  }
+}
